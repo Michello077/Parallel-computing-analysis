@@ -9,6 +9,10 @@ In this project were used libraries from Python such as Pandas, os modules, Pyth
 
 Due to the enormous data, we used parallelization in Python (multiprocessing.Pool()) and R (makeCluster and clusterApply). And in a result, we discovered that project in R appeared to be faster than in Python.
 
-![](https://github.com/Michello077/tumor-classification-using-CNN/blob/4344f59c1d397dc91127bbef2bf6876a89cf84c7/results/CNN001.png)
+![](https://github.com/Michello077/parallel-computing-analysis/blob/444bcd5a7b9fb5ec245967f7e3a80d7a09d579a6/results/PC001.png)
 
-![](https://github.com/Michello077/tumor-classification-using-CNN/blob/4344f59c1d397dc91127bbef2bf6876a89cf84c7/results/CNN002.png)
+![](https://github.com/Michello077/parallel-computing-analysis/blob/444bcd5a7b9fb5ec245967f7e3a80d7a09d579a6/results/PC002.png)
+
+![](https://github.com/Michello077/parallel-computing-analysis/blob/444bcd5a7b9fb5ec245967f7e3a80d7a09d579a6/results/PC003.png)
+
+![](https://github.com/Michello077/parallel-computing-analysis/blob/444bcd5a7b9fb5ec245967f7e3a80d7a09d579a6/results/PC004.png)
