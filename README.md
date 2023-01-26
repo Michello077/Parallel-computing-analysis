@@ -7,7 +7,7 @@ The aim was to find SNP-type mutations that may have a biological basis for the 
 
 In this project were used libraries from Python such as Pandas, os modules, Python multiprocessing, NumPy, SciPy, and Seaborn. From R dplyr, microbenchmark, and parallel. SNPs were detected with the use of the chi2 contingency test with Yamates correction. Additionally, we examined the Pearson correlation between our results and the length of the chromosome.
 
-Due to the enormous data, we used parallelization in Python (multiprocessing.Pool()) and R (makeCluster and clusterApply). And in a result, we discovered that project in R appeared to be faster than in Python.
+Due to the enormous data, we used parallelization in Python (_multiprocessing.Pool()_) and R (_makeCluster_ and _clusterApply_). And in a result, we discovered that project in R appeared to be faster than in Python.
 
 ![](https://github.com/Michello077/parallel-computing-analysis/blob/444bcd5a7b9fb5ec245967f7e3a80d7a09d579a6/results/PC001.png)
 
